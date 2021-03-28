@@ -118,9 +118,9 @@
                     </view>
                     <navigationItem key="navigationItem" id="cMU-8m-JVu"/>
                     <connections>
-                        <outlet property="detailDescriptionMovie" destination="DiX-3H-v1h" id="0CF-LS-qac"/>
+                        <outlet property="detailDescriptionMovieLabel" destination="DiX-3H-v1h" id="0CF-LS-qac"/>
                         <outlet property="detailImageMovie" destination="LkZ-UK-RwC" id="hRY-wP-1oa"/>
-                        <outlet property="detailTitleMovie" destination="04i-Xo-LRc" id="XwG-CE-xRv"/>
+                        <outlet property="detailTitleMovieLabel" destination="04i-Xo-LRc" id="XwG-CE-xRv"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jAA-N4-5zN" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
